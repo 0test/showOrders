@@ -1,10 +1,18 @@
 # showOrders
 История заказов для Шопкипера
 
+**Страница всех заказов:**
+<img src="https://github.com/0test/showOrders/blob/master/v1.png">
+
+**Страница одного заказа:**
+<img src="https://github.com/0test/showOrders/blob/master/v2.png">
+
 * Используется DocLister - сниппет не завязан на shk_userprofile.
 * Можно вставлять в любую страницу, таким образом разруливая доступом на уровне Evolution, а не сниппета.
 * Предсказуемая шаблонизация,использование prepare.
+
 #  Пример #
+
 ```
 [!showOrders?
 	&tplListOrders=`@CODE:
