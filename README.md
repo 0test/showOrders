@@ -6,9 +6,11 @@
 
 
 **Страница всех заказов:**
+
 <img src="https://github.com/0test/showOrders/blob/master/v1.png">
 
 **Страница одного заказа:**
+
 <img src="https://github.com/0test/showOrders/blob/master/v2.png">
 
 
