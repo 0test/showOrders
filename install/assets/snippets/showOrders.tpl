@@ -2,7 +2,7 @@
 /**
  * showOrders
  *
- * Виджет посещаемости сайта
+ * История заказов
  *
  * @category    plugin
  * @version     1.5
@@ -10,6 +10,7 @@
  * @package     evo
  * @reportissues https://github.com/0test
  * @author      A Ka https://vk.com/remote_adm
+ * @link 		https://github.com/0test/showOrders/blob/master/README.md
  * @lastupdate  08-01-2019
  */
 include MODX_BASE_PATH.'assets/snippets/showOrders/showOrders.php';
